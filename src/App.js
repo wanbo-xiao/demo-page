@@ -119,7 +119,7 @@ export default function Album() {
                 <Card className={classes.card}>
                   <CardMedia
                     className={classes.cardMedia}
-                    image={"/img/" + project.name + ".png"}
+                    image={"./img/" + project.name + ".png"}
                     title={project.name}
                   />
                   <CardContent className={classes.cardContent}>
