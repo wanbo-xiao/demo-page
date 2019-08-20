@@ -67,6 +67,7 @@ const useStyles = makeStyles(theme => ({
 const projects = [
   { name: 'chat', description: 'A simple chat application', demoUrl: 'http://www.bobsyd.com/demo/chat/', codeUrl: 'https://github.com/wanbo-xiao/chat' },
   { name: 'poker', description: 'Draw 5 cards then check poker hands', demoUrl: 'http://www.bobsyd.com/demo/poker/', codeUrl: 'https://github.com/wanbo-xiao/poker' },
+  { name: 'tic-tac-toe', description: 'tic-tac-toe game', demoUrl: 'http://www.bobsyd.com/demo/tic-tac-toe/', codeUrl: 'https://github.com/wanbo-xiao/tic-tac-toe' },
 ];
 
 export default function Album() {
