@@ -70,6 +70,7 @@ const projects = [
   { name: 'tic-tac-toe', description: 'tic-tac-toe game', demoUrl: 'http://www.bobsyd.com/demo/tic-tac-toe/', codeUrl: 'https://github.com/wanbo-xiao/tic-tac-toe' },
   { name: 'twitter-search', description: 'A search page for twitter', demoUrl: 'http://www.bobsyd.com/demo/twitter-search/', codeUrl: 'https://github.com/wanbo-xiao/twitter-search' },
   { name: 'ng-employee', description: 'Employees management', demoUrl: 'http://www.bobsyd.com/demo/ng-employee/', codeUrl: 'https://github.com/wanbo-xiao/ng-employees' },
+  { name: 'security-editor', description: 'Document Editor', demoUrl: 'http://www.bobsyd.com/demo/security-editor/', codeUrl: 'https://github.com/wanbo-xiao/security-editor' },
 ];
 
 export default function Album() {
