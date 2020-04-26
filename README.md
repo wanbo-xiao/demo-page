@@ -4,5 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Default port is 3001<br>
 ```
 npm run-script build
+pm2 start ecosystem.config.js
+OR
 pm2 restart demo-page
 ```
