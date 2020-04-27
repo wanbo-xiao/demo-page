@@ -71,6 +71,7 @@ const projects = [
   { name: 'twitter-search', description: 'A search page for twitter', demoUrl: 'http://www.bobsyd.com/demo/twitter-search/', codeUrl: 'https://github.com/wanbo-xiao/twitter-search' },
   { name: 'ng-employee', description: 'Employees management', demoUrl: 'http://www.bobsyd.com/demo/ng-employee/', codeUrl: 'https://github.com/wanbo-xiao/ng-employees' },
   { name: 'security-editor', description: 'Document Editor', demoUrl: 'http://www.bobsyd.com/demo/security-editor/', codeUrl: 'https://github.com/wanbo-xiao/security-editor' },
+  { name: 'security-check', description: 'Q&A dashboard', demoUrl: 'http://www.bobsyd.com/demo/security-check/', codeUrl: 'https://github.com/wanbo-xiao/security-check' },
 ];
 
 export default function Album() {
